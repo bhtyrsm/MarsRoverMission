@@ -20,3 +20,6 @@ MarsRoverMission/obj/Debug/MarsRoverMission.exe
 .vs/MarsRoverMission/v15/Server/sqlite3/storage.ide-wal
 .vs/MarsRoverMission/v15/.suo
 .vs/MarsRoverMission/v15/Server/sqlite3/storage.ide-wal
+.vs/MarsRoverMission/v15/Server/sqlite3/storage.ide
+.vs/MarsRoverMission/v15/Server/sqlite3/storage.ide-shm
+MarsRoverMissionTest/bin/Debug/MarsRoverMission.exe

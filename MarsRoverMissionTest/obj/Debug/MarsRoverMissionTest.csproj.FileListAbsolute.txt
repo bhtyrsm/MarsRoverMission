@@ -7,8 +7,11 @@ C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\bin\Debug\Mi
 C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\obj\Debug\MarsRoverMissionTest.csprojAssemblyReference.cache
 C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\obj\Debug\MarsRoverMissionTest.csproj.CoreCompileInputs.cache
 C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\obj\Debug\MarsRoverMissionTest.csproj.CopyComplete
 C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\obj\Debug\MarsRoverMissionTest.dll
 C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\obj\Debug\MarsRoverMissionTest.pdb
+C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\bin\Debug\MarsRoverMission.exe
+C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\bin\Debug\MarsRoverMission.pdb
+C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\bin\Debug\MarsRoverMission.exe.config
+C:\Users\TCBSIME\source\repos\MarsRoverMission\MarsRoverMissionTest\obj\Debug\MarsRoverMissionTest.csprojAssemblyReference.cache
